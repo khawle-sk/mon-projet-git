@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version 2.1.0
+=======
+Version 2.0.0
+>>>>>>> d3a0f98344ca0725ea1ddd80cf51462f74e517a7
